@@ -1,2 +1,2 @@
 # ADS-Final-project
-Online course management using graph data structure, coded in c++
+Online course management using graph data structure and coded completely in c++
